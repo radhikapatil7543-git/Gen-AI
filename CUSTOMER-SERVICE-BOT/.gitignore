@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/langchain_helper.cpython-311.__py
+
+# Environment variables
+.env
+
+# FAISS vector database
+faiss_index/index.faiss
+faiss_index/index.pkl
